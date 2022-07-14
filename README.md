@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is the github profile of Taro. He is a technology student with futureproof
 <!--
 **TaroSchenker/TaroSchenker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
