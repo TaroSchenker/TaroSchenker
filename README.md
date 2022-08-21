@@ -1,12 +1,12 @@
 
-I'm a tour / produciton & artist manager turned Software Engineer.
+I'm a tour / production & artist manager turned Software Engineer.
 
-Pivoting from dynamic problem solving on the road around the world to problem solving to engage users through code.
+Pivoting from dynamic problem solving while putting on concerts around the world to problem solving to engage users through code.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taroschenker&theme=nord&show_icons=true)](https://github.com/taroschenker/github-readme-stats)
+[![Taro's GitHub stats](https://github-readme-stats.vercel.app/api?username=taroschenker&theme=nord&show_icons=true)](https://github.com/taroschenker/github-readme-stats)
 
 ## Connect with me!
-<a href="[https://www.linkedin.com/in/jihoon-choi-a6967a221/](https://www.linkedin.com/in/taro-schenker/)" target="_blank" >
+<a href="[https://www.linkedin.com/in/taro-schenker/](https://www.linkedin.com/in/taro-schenker/)" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:taroschenker@hotmail.co.uk" target="_blank">
