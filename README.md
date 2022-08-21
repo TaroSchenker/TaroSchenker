@@ -9,8 +9,8 @@ Pivoting from dynamic problem solving while putting on concerts around the world
 <a href="https://www.linkedin.com/in/taro-schenker/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://angel.co/u/jihoon-choi" target="_blank">
-   <img align="left"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/2560px-Netlify_logo.svg.png" />
+<a href="mailto:taroschenker@hotmail.co.uk" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Profile-Profile-green?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="mailto:taroschenker@hotmail.co.uk" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
