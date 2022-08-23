@@ -1,7 +1,7 @@
 
 I'm a tour / production & artist manager turned Software Engineer.
 
-Pivoting from dynamic problem solving while putting on concerts around the world to problem solving to engage users through code.
+From problem solving while putting on concerts around the world to problem solving to engage users through code, creativity is always at the heart of the solution.
 
 [![Taro's GitHub stats](https://github-readme-stats.vercel.app/api?username=taroschenker&theme=nord&show_icons=true)](https://github.com/taroschenker/github-readme-stats)
 
