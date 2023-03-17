@@ -1,27 +1,47 @@
+# Hello there! I'm Taro Schenker 🎶👋
 
-I'm a tour / production & artist manager turned Software Engineer.
+For over a decade, I've traveled the globe as a tour/production and artist manager in the music industry. Now, I'm venturing into the exciting world of technology! I'm a self-learner who loves to tackle challenges and is always eager to develop new skills.
 
-From problem solving while putting on concerts around the world to problem solving to engage users through code, creativity is always at the heart of the solution.
+In my personal life, I explore my creativity by playing the guitar, learning the piano, and creating music using audio software. My background in Audio & Music Technology has equipped me with the skills to develop audio software, such as reverb plugins, additive/subtractive synthesizers, and game audio programming.
 
-[![Taro's GitHub stats](https://github-readme-stats.vercel.app/api?username=taroschenker&theme=nord&show_icons=true)](https://github.com/taroschenker/github-readme-stats)
-
-## Connect with me!
-<a href="https://www.linkedin.com/in/taro-schenker/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://taroschenker.netlify.app/" target="_blank">
-   <img align="left"src="https://img.shields.io/badge/-Profile-green?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="mailto:taroschenker@hotmail.co.uk" target="_blank">
-   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br>
-<br>
+I'm excited to merge my music industry management experience with my problem-solving abilities and passion for learning new technologies.
 
 
-## Languages & Tools
+## 📈 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/taroschenker/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=taroschenker&theme=nord&show_icons=true" alt="Taro's GitHub stats" />
+  </a>
+  <a href="https://github.com/taroschenker/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=taroschenker&theme=nord" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/taroschenker/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taroschenker&layout=compact&theme=nord" alt="Most Used Languages" />
+  </a>
+</p>
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/taro-schenker/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://taroschenker.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Profile-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Profile" />
+  </a>
+  <a href="mailto:taroschenker@hotmail.co.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,4 +66,4 @@ From problem solving while putting on concerts around the world to problem solvi
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-
+</p>
