@@ -1,12 +1,28 @@
 # Hello there! I'm Taro Schenker 🎶👋
 
-For over a decade, I've traveled the globe as a tour/production and artist manager in the music industry. Now, I'm venturing into the exciting world of technology! I'm a self-learner who loves to tackle challenges and is always eager to develop new skills.
+Formerly a tour and artist manager in the music industry, I've translated a decade's worth of organisational and project management skills to software development. My passion for technology was first sparked during my studies in Audio & Music Technology, leading me to explore the world of coding.
 
-In my personal life, I explore my creativity by playing the guitar, learning the piano, and creating music using audio software. My background in Audio & Music Technology has equipped me with the skills to develop audio software, such as reverb plugins, additive/subtractive synthesizers, and game audio programming.
+In 2022, I graduated from the Futureproof Tech Training Academy and embarked on my software development journey. Currently, I'm an Associate Software Developer at YOOX Net-A-Porter, where I've contributed to enhancing vital software, boosting team productivity, and led a team to victory in the 2023 YNAP Hackathon.
 
-I'm excited to merge my music industry management experience with my problem-solving abilities and passion for learning new technologies.
+My unique background in the vibrant world of music has been instrumental in cultivating an innovative perspective in the tech scene. When I'm not coding, you'll find me playing guitar, learning piano, or experimenting with audio software.
 
+Ready for new challenges, I'm eager to contribute my skills towards crafting user-friendly software solutions. I'm excited about the potential for growth, innovation, and making a lasting impression in this dynamic intersection of creativity and technology.
 
+👨‍💻 Software Development
+• Futureproof Tech Training Academy, 2022
+• Associate Software Developer at YOOX Net-A-Porter
+
+🏆 Achievements
+• Led a victorious squad at the 2023 YNAP Hackathon
+
+🎵 Music
+• Former tour and artist manager
+• Passionate guitarist, aspiring pianist, and audio software enthusiast
+
+🚀 Looking Forward
+• Keen to take on new challenges
+• Focused on user-friendly software solutions
+• Excited about the potential for growth and innovation
 ## 📈 GitHub Stats
 
 <p align="center">
