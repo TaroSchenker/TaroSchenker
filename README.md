@@ -46,7 +46,7 @@ Ready for new challenges, I'm eager to contribute my skills towards crafting use
   <a href="https://www.linkedin.com/in/taro-schenker/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://taroschenker.netlify.app/" target="_blank">
+  <a href="https://github.com/TaroSchenker" target="_blank">
     <img src="https://img.shields.io/badge/-Profile-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Profile" />
   </a>
   <a href="mailto:taroschenker@hotmail.co.uk" target="_blank">
