@@ -1,11 +1,5 @@
 # Hello there! I'm Taro Schenker 🎶👋
 
-Formerly a tour and artist manager in the music industry, I've translated a decade's worth of organisational and project management skills to software development. My passion for technology was first sparked during my studies in Audio & Music Technology where I developed audio plugins in C++, leading me to explore the world of coding.
-
-In 2022, I graduated from the Futureproof Tech Training Academy and embarked on my software development journey. Currently, I'm an Associate Software Developer at YOOX Net-A-Porter, where I've contributed to enhancing vital software, boosting team productivity, and led a team to victory in the 2023 YNAP Hackathon.
-
-My unique background in the vibrant world of music has been instrumental in cultivating an innovative perspective in the tech scene. When I'm not coding, you'll find me playing guitar, learning piano, or experimenting with audio software.
-
 Ready for new challenges, I'm eager to contribute my skills towards crafting user-friendly software solutions. I'm excited about the potential for growth, innovation, and making a lasting impression in this dynamic intersection of creativity and technology.
 
 👨‍💻 Software Development
