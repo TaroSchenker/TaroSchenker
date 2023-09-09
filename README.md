@@ -2,10 +2,10 @@
 
 👨‍💻 Software Development
 • Futureproof Tech Training Academy, 2022
-• Associate Software Developer at YOOX Net-A-Porter
+• Associate Software Developer at YOOX Net a Porter
 
 🏆 Achievements
-• Led a victorious squad at the 2023 YNAP Hackathon
+• Led a victorious squad at the 2023 YOOX Net a Porter Hackathon
 
 🎵 Music
 • Former tour and artist manager
