@@ -1,7 +1,5 @@
 # Hello there! I'm Taro Schenker 🎶👋
 
-Ready for new challenges, I'm eager to contribute my skills towards crafting user-friendly software solutions. I'm excited about the potential for growth, innovation, and making a lasting impression in this dynamic intersection of creativity and technology.
-
 👨‍💻 Software Development
 • Futureproof Tech Training Academy, 2022
 • Associate Software Developer at YOOX Net-A-Porter
