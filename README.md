@@ -1,20 +1,5 @@
-# Hello there! I'm Taro Schenker 🎶👋
+# Hello there! I'm Taro 🎶👋
 
-👨‍💻 Software Development
-• Futureproof Tech Training Academy, 2022
-• Associate Software Developer at YOOX Net a Porter
-
-🏆 Achievements
-• Led a victorious squad at the 2023 YOOX Net a Porter Hackathon
-
-🎵 Music
-• Former tour and artist manager
-• Passionate guitarist, aspiring pianist, and audio software enthusiast
-
-🚀 Looking Forward
-• Keen to take on new challenges
-• Focused on user-friendly software solutions
-• Excited about the potential for growth and innovation
 ## 📈 GitHub Stats
 
 <p align="center">
