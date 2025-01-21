@@ -20,14 +20,8 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/taro-schenker/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/TaroSchenker" target="_blank">
     <img src="https://img.shields.io/badge/-Profile-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Profile" />
-  </a>
-  <a href="mailto:taroschenker@hotmail.co.uk" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
